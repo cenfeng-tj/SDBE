@@ -117,14 +117,13 @@ Run `src/SDBE_L2_caltech101_demo.m` script in MATLAB.
 
 If you feel our code helps in your research, please kindly cite our papers:
 ```
-@article{cen2019boosting,
-  title={Boosting occluded image classification via subspace decomposition-based estimation of deep features},
-  author={Cen, Feng and Wang, Guanghui},
-  journal={IEEE transactions on cybernetics},
-  year={2019},
-  doi = {10.1109/TCYB.2019.2931067},
-  url = {https://doi.org/10.1109/TCYB.2019.2931067},
-  publisher={IEEE}
-}
+@ARTICLE{8794588,  
+author={F. {Cen} and G. {Wang}},  
+journal={IEEE Transactions on Cybernetics},   
+title={Boosting Occluded Image Classification via Subspace Decomposition-Based Estimation of Deep Features},   
+year={2020},  
+volume={50},  
+number={7},  
+pages={3409-3422},}
 ```
 
